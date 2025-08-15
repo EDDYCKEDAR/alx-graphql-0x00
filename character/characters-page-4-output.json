@@ -1,0 +1,68 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": 51,
+          "name": "Princess Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/51.jpeg"
+        },
+        {
+          "id": 52,
+          "name": "Scary Terry",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/52.jpeg"
+        },
+        {
+          "id": 53,
+          "name": "Sleepy Gary",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/53.jpeg"
+        },
+        {
+          "id": 54,
+          "name": "Fart",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/54.jpeg"
+        },
+        {
+          "id": 55,
+          "name": "Birdperson",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/55.jpeg"
+        },
+        {
+          "id": 56,
+          "name": "Squanchy",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/56.jpeg"
+        },
+        {
+          "id": 57,
+          "name": "Mr. Meeseeks",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/57.jpeg"
+        },
+        {
+          "id": 58,
+          "name": "Pickle Rick",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg"
+        },
+        {
+          "id": 59,
+          "name": "Evil Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/59.jpeg"
+        },
+        {
+          "id": 60,
+          "name": "Cynthia",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/60.jpeg"
+        }
+      ]
+    }
+  }
+}
