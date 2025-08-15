@@ -1,0 +1,12 @@
+{
+  "data": {
+    "character": {
+      "id": "3",
+      "name": "Inthia Micha",
+      "status": "Alive",
+      "species": "Human",
+      "type": "Dentist",
+      "gender": "Female"
+    }
+  }
+}
