@@ -1,0 +1,68 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": 41,
+          "name": "Tina",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": 42,
+          "name": "Unity",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        },
+        {
+          "id": 43,
+          "name": "Mr. Poopybutthole",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+        },
+        {
+          "id": 44,
+          "name": "Doofus Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg"
+        },
+        {
+          "id": 45,
+          "name": "Doofus Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+        },
+        {
+          "id": 46,
+          "name": "Tammy",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+        },
+        {
+          "id": 47,
+          "name": "Squanchy",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg"
+        },
+        {
+          "id": 48,
+          "name": "The President Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/48.jpeg"
+        },
+        {
+          "id": 49,
+          "name": "Krombopulos Michael",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg"
+        },
+        {
+          "id": 50,
+          "name": "King Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg"
+        }
+      ]
+    }
+  }
+}
