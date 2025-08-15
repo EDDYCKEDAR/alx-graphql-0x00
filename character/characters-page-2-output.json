@@ -1,0 +1,68 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": 11,
+          "name": "Rick Sanchez",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+        },
+        {
+          "id": 12,
+          "name": "Morty Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+        },
+        {
+          "id": 13,
+          "name": "Summer Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+        },
+        {
+          "id": 14,
+          "name": "Beth Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+        },
+        {
+          "id": 15,
+          "name": "Jerry Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+        },
+        {
+          "id": 16,
+          "name": "Abadango Cluster Princess",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+        },
+        {
+          "id": 17,
+          "name": "Abe Lincoln",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+        },
+        {
+          "id": 18,
+          "name": "Ants in my Eyes Johnson",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+        },
+        {
+          "id": 19,
+          "name": "Artur Lehman",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+        },
+        {
+          "id": 20,
+          "name": "Birdperson",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+        }
+      ]
+    }
+  }
+}
