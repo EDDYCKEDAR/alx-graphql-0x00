@@ -1,0 +1,12 @@
+{
+  "data": {
+    "character": {
+      "id": "4",
+      "name": "Eric Axel",
+      "status": "Alive",
+      "species": "Human",
+      "type": "Teacher",
+      "gender": "Male"
+    }
+  }
+}
